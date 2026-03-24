@@ -19,8 +19,8 @@ Simple controls, clean visuals, and a smooth difficulty curve make it easy to pi
 - No ads  
 
 ## 📸 Screenshots
-![Screenshot 1](media/screeshots/screenshot-01.png)
-![Screenshot 2](media/screeshots/screenshot-02.png)
+![Screenshot 1](media/screenshots/screenshot-01.png)
+![Screenshot 2](media/screenshots/screenshot-02.png)
 
 ## 🔗 Links
 - **Google Play:** (coming soon)
