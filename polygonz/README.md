@@ -22,9 +22,17 @@ Simple controls, clean visuals, and a smooth difficulty curve make it easy to pi
 ![Screenshot 1](media/screenshots/screenshot-01.png)
 ![Screenshot 2](media/screenshots/screenshot-02.png)
 
+## 📸 QR Codes
+![QR Code 1](media/qr-codes/fritztudios-qr-code.png)
+![QR Code 2](media/qr-codes/polygonz-qr-code.png)
+
+
 ## 🔗 Links
+
 - **Google Play:** (coming soon)
+
 - **Privacy Policy:** https://fritztudios.github.io/polygonz-privacy/
+
 - **Support:** fritztudios at gmail dot com
 
 ## © 2026 FritzTudios
