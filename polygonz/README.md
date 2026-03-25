@@ -23,7 +23,13 @@ Simple controls, clean visuals, and a smooth difficulty curve make it easy to pi
 ![Screenshot 2](media/screenshots/screenshot-02.png)
 
 ## 📸 QR Codes
+
+- **FritzTudios**
+
 ![QR Code 1](media/qr-codes/fritztudios-qr-code.png)
+
+- **Polygonz**
+
 ![QR Code 2](media/qr-codes/polygonz-qr-code.png)
 
 
