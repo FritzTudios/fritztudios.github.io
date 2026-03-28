@@ -6,8 +6,6 @@ inspired by Sudoku and Minesweeper.
 
 Fast, clean gameplay. No ads. No clutter. Just flow.
 
-![Screenshot](media/polygonz-feature-graphic.jpg)
-
 ## 🎮 About the Game
 Polygonz is a fast, minimalist geometry game built with Flutter.  
 Simple controls, clean visuals, and a smooth difficulty curve make it easy to pick up and hard to put down.
@@ -37,7 +35,11 @@ Simple controls, clean visuals, and a smooth difficulty curve make it easy to pi
 ![QR Code 2](media/qr-codes/polygonz-qr-code.png)
 
 ## 📸 Screenshots
+
+![Screenshot](media/polygonz-feature-graphic.jpg)
+
 ![Screenshot 1](media/screenshots/screenshot-01.png)
+
 ![Screenshot 2](media/screenshots/screenshot-02.png)
 
 ## © 2026 FritzTudios
