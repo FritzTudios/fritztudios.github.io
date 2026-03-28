@@ -18,8 +18,6 @@ Simple controls, clean visuals, and a smooth difficulty curve make it easy to pi
 
 ## 🔗 Links
 
-## 🔗 Links
-
 - **[Google Play](https://play.google.com/store/apps/details?id=com.FritzTudios.polygonz_app)**  
 
 - **[Privacy Policy](https://fritztudios.github.io/polygonz-privacy/)**  
