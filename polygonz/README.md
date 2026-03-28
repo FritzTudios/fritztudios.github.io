@@ -18,9 +18,13 @@ Simple controls, clean visuals, and a smooth difficulty curve make it easy to pi
 - Offline play  
 - No ads  
 
-## 📸 Screenshots
-![Screenshot 1](media/screenshots/screenshot-01.png)
-![Screenshot 2](media/screenshots/screenshot-02.png)
+## 🔗 Links
+
+- **Google Play:** https://play.google.com/store/apps/details?id=com.FritzTudios.polygonz_app
+
+- **Privacy Policy:** https://fritztudios.github.io/polygonz-privacy/
+
+- **Support:** fritztudios at gmail dot com
 
 ## 📸 QR Codes
 
@@ -32,13 +36,8 @@ Simple controls, clean visuals, and a smooth difficulty curve make it easy to pi
 
 ![QR Code 2](media/qr-codes/polygonz-qr-code.png)
 
-
-## 🔗 Links
-
-- **Google Play:** (coming soon)
-
-- **Privacy Policy:** https://fritztudios.github.io/polygonz-privacy/
-
-- **Support:** fritztudios at gmail dot com
+## 📸 Screenshots
+![Screenshot 1](media/screenshots/screenshot-01.png)
+![Screenshot 2](media/screenshots/screenshot-02.png)
 
 ## © 2026 FritzTudios
