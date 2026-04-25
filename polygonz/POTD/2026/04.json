@@ -4,9 +4,166 @@
   "metadata": {
     "id": "99b6f64e-3ea5-4e65-bab2-d4fd7f0cbe7c",
     "name": "PolygonZ Pack - vol-2026-0003-lvl-01",
-    "description": "Generated puzzle pack with 50 puzzles",
+    "description": "Generated puzzle pack with 50 puzzles; first 30 are scheduled as the April 2026 Puzzle Of The Day set",
     "createdAt": "2026-04-02T05:27:04.239249",
     "totalPuzzles": 50
+  },
+  "daily_schedule": {
+    "year": 2026,
+    "month": 4,
+    "timezone": "local",
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-04-01",
+        "puzzleUuid": "38d1a6eb-3330-4f5f-878f-37265eddac69"
+      },
+      {
+        "day": 2,
+        "date": "2026-04-02",
+        "puzzleUuid": "87f50810-49d3-44bd-9c1e-2c706b02c411"
+      },
+      {
+        "day": 3,
+        "date": "2026-04-03",
+        "puzzleUuid": "bfe6f5c5-e5bc-487f-ac6e-9b3cff5892b9"
+      },
+      {
+        "day": 4,
+        "date": "2026-04-04",
+        "puzzleUuid": "933e8a6c-c6cc-4764-8e0c-59927dc520bc"
+      },
+      {
+        "day": 5,
+        "date": "2026-04-05",
+        "puzzleUuid": "3fed926c-bfe0-47a5-9fbc-146969e0a415"
+      },
+      {
+        "day": 6,
+        "date": "2026-04-06",
+        "puzzleUuid": "4d1ce9ea-6326-4ebd-8a91-f42a768e7805"
+      },
+      {
+        "day": 7,
+        "date": "2026-04-07",
+        "puzzleUuid": "770d097a-c82c-4f13-98dc-6e17e5679022"
+      },
+      {
+        "day": 8,
+        "date": "2026-04-08",
+        "puzzleUuid": "3c45295b-a280-4421-8ebc-8e8fdcd0948c"
+      },
+      {
+        "day": 9,
+        "date": "2026-04-09",
+        "puzzleUuid": "d19f45b2-e3a4-4196-a7b0-5fc439849771"
+      },
+      {
+        "day": 10,
+        "date": "2026-04-10",
+        "puzzleUuid": "d1d9334b-5d97-4639-972c-da9b497cb0da"
+      },
+      {
+        "day": 11,
+        "date": "2026-04-11",
+        "puzzleUuid": "f344225c-97e6-442b-9829-78a9a4055aeb"
+      },
+      {
+        "day": 12,
+        "date": "2026-04-12",
+        "puzzleUuid": "c71ed16e-f37b-46d0-9839-4d9db20220a8"
+      },
+      {
+        "day": 13,
+        "date": "2026-04-13",
+        "puzzleUuid": "d9acac27-8b98-4c53-86ce-a3f2a440b66a"
+      },
+      {
+        "day": 14,
+        "date": "2026-04-14",
+        "puzzleUuid": "33d1ec55-6760-4551-bb6a-6e1183332abb"
+      },
+      {
+        "day": 15,
+        "date": "2026-04-15",
+        "puzzleUuid": "07b6a5af-d291-4074-9742-fb3960e54289"
+      },
+      {
+        "day": 16,
+        "date": "2026-04-16",
+        "puzzleUuid": "a110a6c6-7540-4b5b-9e9f-8fa6a88ab00a"
+      },
+      {
+        "day": 17,
+        "date": "2026-04-17",
+        "puzzleUuid": "1ad40662-0d53-4546-b539-14ce79fdf4b2"
+      },
+      {
+        "day": 18,
+        "date": "2026-04-18",
+        "puzzleUuid": "ecfff07a-eae0-454d-82e7-686e2b929dd1"
+      },
+      {
+        "day": 19,
+        "date": "2026-04-19",
+        "puzzleUuid": "008c9f53-0bdb-491f-bc5e-2fa349994699"
+      },
+      {
+        "day": 20,
+        "date": "2026-04-20",
+        "puzzleUuid": "14c15238-df32-435b-ac9a-c9ffdbc36bcb"
+      },
+      {
+        "day": 21,
+        "date": "2026-04-21",
+        "puzzleUuid": "2e2b62a5-10b5-47c6-805c-00f96ecbdf3c"
+      },
+      {
+        "day": 22,
+        "date": "2026-04-22",
+        "puzzleUuid": "4871682c-c44e-476c-ad90-5a0f0ee27f4b"
+      },
+      {
+        "day": 23,
+        "date": "2026-04-23",
+        "puzzleUuid": "51a70d9b-ea85-4bf7-9a3f-f4a42a2a5e9b"
+      },
+      {
+        "day": 24,
+        "date": "2026-04-24",
+        "puzzleUuid": "877cfb6a-d3a1-48b6-ab88-c2816cfebdc5"
+      },
+      {
+        "day": 25,
+        "date": "2026-04-25",
+        "puzzleUuid": "e135c099-47f7-4d35-9008-17164537e964"
+      },
+      {
+        "day": 26,
+        "date": "2026-04-26",
+        "puzzleUuid": "91d2f2e2-b162-4e2a-9d9b-6dca3d9888ed"
+      },
+      {
+        "day": 27,
+        "date": "2026-04-27",
+        "puzzleUuid": "cc87ce5b-9769-44ee-aecb-1395c74eb9ce"
+      },
+      {
+        "day": 28,
+        "date": "2026-04-28",
+        "puzzleUuid": "48ae55ce-5add-4e66-ba21-4acdc0b75ee7"
+      },
+      {
+        "day": 29,
+        "date": "2026-04-29",
+        "puzzleUuid": "90c2acae-f956-43da-91df-17f3d5be2d01"
+      },
+      {
+        "day": 30,
+        "date": "2026-04-30",
+        "puzzleUuid": "695da20c-74cb-435b-acc4-a9745521da5e"
+      }
+    ]
   },
   "puzzles": [
     {
