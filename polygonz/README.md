@@ -4,7 +4,7 @@
 A full featured brain training / logic game by FritzTudios
 inspired by Sudoku and Minesweeper.
 
-Fast, clean gameplay. No ads. No clutter. Just flow.
+Fast, clean gameplay. No clutter. Just flow.
 
 ## 🎮 About the Game
 Polygonz is a fast, minimalist geometry game built with Flutter.  
@@ -14,7 +14,6 @@ Simple controls, clean visuals, and a smooth difficulty curve make it easy to pi
 - Minimalist geometric design  
 - Satisfying progression curve  
 - Offline play  
-- No ads  
 
 ## 🔗 Links
 
