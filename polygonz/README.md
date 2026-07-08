@@ -25,13 +25,16 @@ Simple controls, clean visuals, and a smooth difficulty curve make it easy to pi
 
 ## 📸 QR Codes
 
+- **Polygonz - Google Play Store**
+![QR Code 1](media/qr-codes/polygonz-google-play-store-qr-code.png)
+
 - **FritzTudios**
 
-![QR Code 1](media/qr-codes/fritztudios-qr-code.png)
+![QR Code 2](media/qr-codes/fritztudios-qr-code.png)
 
 - **Polygonz**
 
-![QR Code 2](media/qr-codes/polygonz-qr-code.png)
+![QR Code 3](media/qr-codes/polygonz-qr-code.png)
 
 ## 📸 Screenshots
 
